@@ -595,7 +595,7 @@ body { font-family: var(--font-body); background: var(--bg); color: var(--text);
 /* Foto grande a la izquierda ocupa toda la altura */
 .danza-foto--tall {
   grid-row: 1 / -1;
-  height: 100%;
+  height: 105%;
 }
 
 /* Columna derecha: 3 fotos apiladas */
@@ -603,7 +603,7 @@ body { font-family: var(--font-body); background: var(--bg); color: var(--text);
   display: flex;
   flex-direction: column;
   gap: 10px;
-  height: 100%;
+  height: 99%;
 }
 .danza-foto-col .danza-foto {
   flex: 1;
