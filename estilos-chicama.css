@@ -545,8 +545,8 @@ body { font-family: var(--font-body); background: var(--bg); color: var(--text);
   grid-template-columns: 1fr 1fr;
   gap: 60px;
   align-items: center;
-  margin-bottom: 80px;
-  padding-bottom: 80px;
+  margin-bottom: 90px;
+  padding-bottom: 90px;
   border-bottom: 1px solid var(--border);
 }
 .danza-row:last-child {
@@ -574,7 +574,7 @@ body { font-family: var(--font-body); background: var(--bg); color: var(--text);
 }
 
 .danza-foto {
-  border-radius: 12px;
+  border-radius: 15px;
   overflow: hidden;
   background: #1a1d24;
   position: relative;
